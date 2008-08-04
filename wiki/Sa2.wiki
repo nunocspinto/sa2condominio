@@ -1,19 +1,15 @@
-#summary One-sentence summary of this page.
 #labels Featured,Phase-Support
+#A Sa2, desenvolve projetos de gestão com foco em condomínios e PMEs.
 
 
-= Descrição =
-
-
-A Sa2, desenvolve projetos de gestão com foco em condomínios e PMEs.
-
-
-= Detalhes =
+= A Sa2 =
 
 
 A Sa2, desenvolve projetos de gestão com foco em condomínios e PMEs, e após o desenvolvimento de um grande número de projetos passou a construir uma metodologia de trabalho própria e original, com o objetivo de prestar o melhor serviço para nossos clientes e parceiros. A diversidade dos projetos desenvolvidos levou à criacão de diferentes empresas formando um grupo dedicado à gestão empresarial.
 
 
+
+= Sa2 TI =
 
 
 A Sa2TI é uma empresa especializada em soluções integradas e inteligentes de sistemas de informação onde a flexibilidade, portabilidade, escalabilidade, desempenho, e economia (redução de TCO) são o resultado do produto final.
