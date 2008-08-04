@@ -12,7 +12,7 @@ A Sa2, desenvolve projetos de gestão com foco em condomínios e PMEs, e após o
 = Sa2 TI =
 
 
-A Sa2TI é uma empresa especializada em soluções integradas e inteligentes de sistemas de informação onde a flexibilidade, portabilidade, escalabilidade, desempenho, e economia (redução de TCO) são o resultado do produto final.
+A Sa2TI é uma empresa especializada em soluções integradas e inteligentes de sistemas de informação onde a flexibilidade, portabilidade, escalabilidade, desempenho, e economia (redução de [TCO]) são o resultado do produto final.
 
 Utilizando as mais recentes tecnologias em software, efetuamos projetos de arquitetura de redes, auditoria de segurança e performance, com foco de implementar e gerenciar soluções para as necessidades de infra-estrutura tecnológica, serviços de TI e contingência de nossos clientes, sejam eles grandes, médias ou pequenas empresas, profissionais liberais, sempre com muita qualidade e o melhor custo-benefício do mercado.
 
