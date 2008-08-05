@@ -1,0 +1,1 @@
+O Formato MDB significa *M*icrosoft *D*ata*B*ase, é um arquivo binário contendo a base de dados do Microsoft Access. Não é portavel uma vez que precisa de ferramentas software especiais para extrair os dados.
